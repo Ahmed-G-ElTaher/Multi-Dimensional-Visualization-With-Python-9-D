@@ -1,20 +1,21 @@
 # Multi-Dimensional-Visualization-With-Python
 
-![](https://github.com/Ahmed-G-ElTaher/Multi-Dimensional-Visualization-With-Python-9-D/blob/main/output.png)
-
 # Yeeh 😲 The Pic Represent Eight Attributes (8-D) 🤓 📢 
+
+![](https://github.com/Ahmed-G-ElTaher/Multi-Dimensional-Visualization-With-Python-9-D/blob/main/output.png)
 
 _____________________________________________________________________
 
-As you see in the right image, it isn't make more sense. 
+As you see in the bottom image, it isn't make more sense. 
 
 And there isn't any clearly separate pattern.
 
 So, "We need to go Higher" 😅 
 
+![](https://github.com/Ahmed-G-ElTaher/Multi-Dimensional-Visualization-With-Python-9-D/blob/main/output0.png)
 ______________________________________________________________________
 
-In the left plot, I use Facets in ggplot from Plotnine to make each layer as one piece. And each Facet has a part of 3 columns to extract a better sperate view. If each plot in Facets has depth (be 1-D). Then, it will be 9-D plot. 
+In the hieghest plot, I use Facets in ggplot from Plotnine to make each layer as one piece. And each Facet has a part of 3 columns to extract a better sperate view. If each plot in Facets has depth (be 1-D). Then, it will be 9-D plot. 
 
 _______________________________________________________________________
 
