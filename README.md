@@ -21,10 +21,6 @@ _______________________________________________________________________
 
 
 
-GitHub link : https://github.com/Ahmed-G-ElTaher/Multi-Dimensional-Visualization-With-Python-9-D/tree/main 
-
- 
-
 Resources :
 
 Plotnine  -->  https://plotnine.readthedocs.io/en/stable/api.html
