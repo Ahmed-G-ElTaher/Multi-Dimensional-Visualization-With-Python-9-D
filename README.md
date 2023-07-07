@@ -1,10 +1,10 @@
 # Multi-Dimensional-Visualization-With-Python
 
-## As you see in the bottom image, it isn't make more sense. 
+### As you see in the bottom image, it isn't make more sense. 
 
-## And there isn't any clearly separate pattern.
+### And there isn't any clearly separate pattern.
 
-## So, "We need to go Higher" 😅 
+### So, "We need to go Higher" 😅 
 
 ![](https://github.com/Ahmed-G-ElTaher/Multi-Dimensional-Visualization-With-Python-9-D/blob/main/output0.png)
 ______________________________________________________________________
